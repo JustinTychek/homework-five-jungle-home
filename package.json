@@ -1,0 +1,14 @@
+{
+  "name": "homework-five-jungle-home",
+  "version": "1.0.0",
+  "description": "Home page of the Jungle Cook site",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "Justin Tychek",
+  "license": "ISC"
+}
